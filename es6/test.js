@@ -8,7 +8,7 @@ const sentences = [
 function say({subject, verb, object}) {
 		//es6 feature: template strings
 		// note that quotes below are backticks (`), not single quotes (')
-		console.log(`${subject}${verb}${object}`);
+	console.log(`${subject}${verb}${object}`);
 }
 // es6 feature: for..of
 for(let s of sentences) {
