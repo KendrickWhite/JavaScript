@@ -12,3 +12,6 @@ node_modules
 *~
 
 *.bak
+
+dist
+public/dist
